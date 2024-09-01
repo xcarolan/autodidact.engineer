@@ -28,3 +28,7 @@ params:
   ananke_socials:
     - name: twitter
       url: https://x.com/SCarolan777743
+    - name: github
+      url: https://github.com/xcarolan
+    - name: linkedin
+      url: https://www.linkedin.com/in/sylvestercarolan/
