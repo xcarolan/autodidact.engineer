@@ -6,8 +6,15 @@
     <description>Recent content in Articles on Autodidact Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My journey with minikube</title>
+      <link>http://localhost:1313/post/minikube-intro/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/minikube-intro/</guid>
+      <description>I first came across Minikube while reading a Kubernetes introduction.</description>
+    </item>
     <item>
       <title>Chapter VI: Esmeralda</title>
       <link>http://localhost:1313/post/chapter-6/</link>
