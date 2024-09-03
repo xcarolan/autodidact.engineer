@@ -1,0 +1,19 @@
+title: The Autodidact Engineer
+baseURL: https://autodidact.engineer
+languageCode: en-us
+theme:
+  - ananke
+resourceDir: ../resources
+DefaultContentLanguage: en
+Paginate: 3
+googleAnalytics: ""
+enableRobotsTXT: true
+languages:
+  en:
+    title: Autodidact Engineer
+    weight: 1
+    contentDir: content
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
