@@ -30,6 +30,6 @@ On this blog, I'll be sharing my thoughts on AI, software development, leadershi
 
 ### Call to Action:
 
-Let's connect on [LinkedIn/Twitter]!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/sylvestercarolan/)!
 I'm always up for a chat about AI, Kubernetes, or anything tech-related – feel free to reach out!
 
