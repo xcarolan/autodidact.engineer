@@ -1,8 +1,10 @@
-+++
-title = 'Kubernetes History'
-date = 2024-09-17T20:05:05-04:00
-draft = true
-+++
+---
+title: "Kubernetes History"
+date: 2024-09-17T20:05:05-04:00
+tags: [kubernetes]
+featured_image: "/images/AdobeStock_972147464_Preview.jpeg"
+draft: false
+---
 ## Celebrating a Decade of Kubernetes in Raleigh
 
 This past June, the tech world marked a major milestone: Kubernetes turned 10!  I was lucky enough to join the festivities at a local event here in Raleigh, hosted by the incredible Carlos Santana. Tech enthusiasts from across North Carolina gathered at the stunning new Bandwidth Campus to celebrate this open-source powerhouse.
