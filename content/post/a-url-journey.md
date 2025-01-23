@@ -1,7 +1,7 @@
 ---
 date: 2024-09-02T13:17:27-04:00
 title: 'A URL Journey'
-draft: false
+draft: true
 description: 'What happens when you type a URL into a browser?'
 featured_image: '/images/AdobeStock_822553479_Preview.jpeg'
 tags: [web, networking]
