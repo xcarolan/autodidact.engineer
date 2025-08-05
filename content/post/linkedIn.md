@@ -1,6 +1,7 @@
 ---
 title: 'LinkedIn: From Professional Network to Corporate Performance Theater'
 date: 2025-08-05T11:00:45-04:00
+featured_image: '/images/AdobeStock_72414334.svg'
 draft: true
 ---
 

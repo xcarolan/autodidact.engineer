@@ -6,6 +6,235 @@ params:
   description: The last theme you'll ever need. Maybe.
   background_color_class: bg-black
   recent_posts_number: 3
+  ananke:
+    show_recent_posts: true # show recent posts on the homepage
+    social:
+      icon_path: "ananke/socials/%s.svg"
+      follow:
+        new_window_icon: false # show a little "opens in new window" icon next to the link
+        # add networks to this list in your local config to enable them, remove them to disable them.
+        # networks:
+        #   - "facebook"
+        #   - "bluesky"
+        #   - "linkedin"
+      share:
+        icons: true # show icons for each share link
+        sharetext: true # show the share text
+        # add networks to this list in your local config to enable them, remove them to disable them.
+        # networks:
+        #   - "email"
+        #   - "facebook"
+        #   - "bluesky"
+        #   - "linkedin"
+      # social media network setups
+      networks:
+        bluesky:
+          slug: "bluesky"
+          label: "Bluesky"
+          color: "#1185fe"
+          profile: "https://bsky.app/profile/%s"
+          icon: "bluesky" # font awesome brand icon name
+          link: "https://bsky.app/intent/compose"
+          particles:
+            text: "permalink"
+        email:
+          slug: "email"
+          label: "Email"
+          profile: false
+          icon: "envelope" # font awesome free icon name
+          link: "mailto:"
+          particles:
+            body: "permalink"
+            subject: "title"
+        facebook:
+          slug: "facebook"
+          label: "Facebook"
+          color: "#3b5998"
+          profile: "https://www.facebook.com/%s"
+          icon: "facebook" # font awesome brand icon name
+          link: "https://facebook.com/sharer/sharer.php"
+          particles:
+            u: "permalink"
+        github:
+          slug: "github"
+          label: "GitHub"
+          color: "#6cc644"
+          profile: "https://github.com/%s/"
+          icon: "github" # font awesome brand icon name
+        gitlab:
+          slug: "gitlab"
+          label: "GitLab"
+          color: "#FC6D26"
+          profile: "https://gitlab.com/%s/"
+          icon: "gitlab" # font awesome brand icon name
+        hackernews:
+          slug: "hackernews"
+          label: "Hacker News"
+          color: "#ff4000"
+          profile: "https://news.ycombinator.com/user?id=%s"
+          icon: "hacker-news" # font awesome brand icon name
+          link: "https://news.ycombinator.com/submitlink"
+          particles:
+            u: "permalink"
+            t: "description"
+        instagram:
+          slug: "instagram"
+          label: "Instagram"
+          color: "#e1306c"
+          profile: "https://www.instagram.com/%s/"
+          icon: "instagram" # font awesome brand icon name
+        keybase:
+          slug: "keybase"
+          label: "Keybase"
+          color: "#3d76ff"
+          profile: "https://keybase.io/%s"
+          icon: "keybase" # font awesome brand icon name
+        linkedin:
+          slug: "linkedin"
+          label: "LinkedIn"
+          color: "#0077b5"
+          profile: "http://linkedin.com/in/%s"
+          icon: "linkedin" # font awesome brand icon name
+          link: "https://www.linkedin.com/shareArticle"
+          particles:
+            url: "permalink"
+            title: "title"
+            summary: "description"
+            source: "permalink"
+            params: "mini=true"
+        medium:
+          slug: "medium"
+          label: "Medium"
+          color: "#0077b5"
+          profile: "https://medium.com/@%s/"
+          icon: "medium" # font awesome brand icon name
+        mastodon:
+          slug: "mastodon"
+          label: "Mastodon"
+          color: "#6364FF"
+          profile: ""
+          icon: "mastodon" # font awesome brand icon name
+        pinterest:
+          slug: "pinterest"
+          label: "Pinterest"
+          color: "#e60023"
+          profile: "https://www.pinterest.com/%s/"
+          icon: "pinterest" # font awesome brand icon name
+          link: "https://pinterest.com/pin/create/button/"
+          particles:
+            url: "permalink"
+            media: "permalink"
+            description: "description"
+        reddit:
+          slug: "reddit"
+          label: "Reddit"
+          color: "#ff4500"
+          profile: "https://www.reddit.com/user/%s/"
+          icon: "reddit" # font awesome brand icon name
+          link: "https://reddit.com/submit/"
+          particles:
+            url: "permalink"
+            title: "title"
+            params: "resubmit=true"
+        rss:
+          slug: "rss"
+          label: "RSS"
+          color: "#ff6f1a"
+          profile: ""
+          icon: "rss" # font awesome free icon name
+        slack:
+          slug: "slack"
+          label: "Slack"
+          color: "#E01E5A"
+          profile: ""
+          icon: "slack" # font awesome brand icon name
+        stackoverflow:
+          slug: "stackoverflow"
+          label: "Stack Overflow"
+          color: "#f48024"
+          profile: "https://stackoverflow.com/users/%s"
+          icon: "stack-overflow" # font awesome brand icon name
+        telegram:
+          slug: "telegram"
+          label: "Telegram"
+          color: "#0088cc"
+          profile: "https://t.me/%s"
+          icon: "telegram" # font awesome brand icon name
+          link: "https://telegram.me/share/url"
+          particles:
+            text: "description"
+            url: "permalink"
+        tiktok:
+          slug: "tiktok"
+          label: "TikTok"
+          color: "#fe2c55"
+          profile: "https://www.tiktok.com/@%s"
+          icon: "tiktok" # font awesome brand icon name
+        tumblr:
+          slug: "tumblr"
+          label: "Tumblr"
+          color: "#35465c"
+          profile: "https://www.tumblr.com/blog/%s"
+          icon: "tumblr" # font awesome brand icon name
+          link: "https://www.tumblr.com/widgets/share/tool"
+          particles:
+            canonicalUrl: "permalink"
+            shareSource: "source"
+            title: "title"
+            caption: "description"
+            content: "description"
+            params: "posttype=link"
+        twitter:
+          slug: "twitter"
+          label: "Twitter"
+          color: "#1da1f2"
+          profile: "https://twitter.com/%s"
+          icon: "twitter" # font awesome brand icon name
+          link: "https://twitter.com/intent/tweet/"
+          particles:
+            text: "description"
+            url: "permalink"
+        whatsapp:
+          slug: "whatsapp"
+          label: "WhatsApp"
+          color: "#25d366"
+          profile: false
+          icon: "whatsapp" # font awesome brand icon name
+          link: "whatsapp://send"
+          linkintext: true
+          particles:
+            text: "description"
+        xing:
+          slug: "xing"
+          label: "Xing"
+          color: "#026466"
+          profile: "https://www.xing.com/profile/%s"
+          icon: "xing" # font awesome brand icon name
+          link: "https://www.xing.com/app/user"
+          separator: ";"
+          particles:
+            url: "permalink"
+            title: "title"
+            params: "op=share"
+        x-twitter:
+          slug: "x-twitter"
+          label: "X"
+          color: "#000000"
+          profile: "https://x.com/%s"
+          icon: "x-twitter" # font awesome brand icon name
+          link: "https://twitter.com/intent/tweet/"
+          particles:
+            text: "description"
+            url: "permalink"
+        youtube:
+          slug: "youtube"
+          label: "YouTube"
+          color: "#cd201f"
+          profile: "https://www.youtube.com/@%s"
+          icon: "youtube" # font awesome brand icon name
+
+
+
   ananke_socials:
     - name: twitter
       url: https://x.com/SCarolan777743
