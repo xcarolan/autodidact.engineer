@@ -11,11 +11,11 @@ The platform is now drowning in corporate speak so thick you need subtitles. We'
 
 ## The Corporate Speak Hall of Fame:
 
-"Let's circle back" = "I'm ignoring this until you forget about it"
-"Leverage our core competencies" = "do the thing we're supposedly good at"
-"Ideate around this" = "someone please have an idea because I don't"
-"Boil the ocean" = "attempt the impossible while pretending it's strategic"
-"Drink from the fire hose" = "we're disorganized and calling it 'dynamic'"
+- "Let's circle back" = "I'm ignoring this until you forget about it"
+- "Leverage our core competencies" = "do the thing we're supposedly good at"
+- "Ideate around this" = "someone please have an idea because I don't"
+- "Boil the ocean" = "attempt the impossible while pretending it's strategic"
+- "Drink from the fire hose" = "we're disorganized and calling it 'dynamic'"
 
 My boss has achieved black belt status in corp speak. His wife is also a corporate executive. I'm genuinely fascinated by their dinner conversations: "Honey, how was your day?" "Well, I leveraged some synergies to optimize our value proposition, but we need to circle back on rightsizing our household operational framework." "Should we ideate around takeout?" "Let's socialize that with the kids and see if we can move the needle on family engagement metrics."
 
