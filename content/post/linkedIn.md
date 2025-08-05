@@ -2,7 +2,7 @@
 title: 'LinkedIn: From Professional Network to Corporate Performance Theater'
 date: 2025-08-05T11:00:45-04:00
 featured_image: '/images/AdobeStock_72414334.svg'
-draft: true
+draft: false
 ---
 
 LinkedIn started as a brilliant concept: a digital space for actual networking, job hunting, and sharing genuinely useful industry insights. Fast-forward to today, and it's become a dystopian hellscape where everyone is a "thought leader" who "thrives in fast-paced environments" and has apparently never made a mistake in their entire career.
