@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/linkedin/</loc>
+    <lastmod>2025-08-05T11:00:45-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-05T11:00:45-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/tags/kubernetes/</loc>
     <lastmod>2024-09-17T20:05:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -13,11 +23,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-17T20:05:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-17T20:05:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

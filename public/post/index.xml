@@ -6,8 +6,22 @@
     <description>Recent content in Articles on Autodidact Engineer</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Sep 2024 20:05:05 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 11:00:45 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knaves and Such</title>
+      <link>http://localhost:1313/post/knaves/</link>
+      <pubDate>Tue, 05 Aug 2025 11:00:45 -0400</pubDate>
+      <guid>http://localhost:1313/post/knaves/</guid>
+      <description>&lt;p&gt;I read &amp;ldquo;How Google Works&amp;rdquo; by Eric Schmidt and Jonathan Rosenberg a few years back, and one concept has stuck me ever since: &amp;ldquo;Knaves.&amp;rdquo; These are smart people who are utterly self-serving, putting their own interests above everything else. I&amp;rsquo;ve met far too many in my career.&#xA;I&amp;rsquo;ve also been lucky to work with exceptional leaders—the kind who lift their teams up, bring everyone along for the ride, and fight for collective success over personal glory. There are countless articles celebrating great leadership, but almost nothing about the flip side: truly awful &amp;ldquo;leaders.&amp;rdquo; The ones who climb the ladder through nepotism, backstabbing, lies, and sheer nastiness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LinkedIn: From Professional Network to Corporate Performance Theater</title>
+      <link>http://localhost:1313/post/linkedin/</link>
+      <pubDate>Tue, 05 Aug 2025 11:00:45 -0400</pubDate>
+      <guid>http://localhost:1313/post/linkedin/</guid>
+      <description>&lt;p&gt;LinkedIn started as a brilliant concept: a digital space for actual networking, job hunting, and sharing genuinely useful industry insights. Fast-forward to today, and it&amp;rsquo;s become a dystopian hellscape where everyone is a &amp;ldquo;thought leader&amp;rdquo; who &amp;ldquo;thrives in fast-paced environments&amp;rdquo; and has apparently never made a mistake in their entire career.&#xA;The platform is now drowning in corporate speak so thick you need subtitles. We&amp;rsquo;ve created a business language that&amp;rsquo;s basically English wearing a suit and pretending to be important. Why say &amp;ldquo;we fired people&amp;rdquo; when you can say we&amp;rsquo;re &amp;ldquo;rightsizing through workforce optimization to align with market dynamics&amp;rdquo;? It&amp;rsquo;s like watching someone use a thesaurus to order coffee.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kubernetes History</title>
       <link>http://localhost:1313/post/kubernetes-history/</link>

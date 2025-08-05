@@ -1,13 +1,11 @@
 title: The Autodidact Engineer
 baseURL: https://autodidact.engineer
 languageCode: en-us
-theme:
-  - ananke
+theme: ananke
 resourceDir: ../resources
 DefaultContentLanguage: en
 pagination:
   pagerSize: 3
-  path: page
 GoogleAnalytics: ""
 enableRobotsTXT: true
 languages:
