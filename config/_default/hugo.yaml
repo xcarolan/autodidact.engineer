@@ -5,8 +5,10 @@ theme:
   - ananke
 resourceDir: ../resources
 DefaultContentLanguage: en
-Paginate: 3
-googleAnalytics: ""
+pagination:
+  pagerSize: 3
+  path: page
+GoogleAnalytics: ""
 enableRobotsTXT: true
 languages:
   en:
