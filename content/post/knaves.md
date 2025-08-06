@@ -2,7 +2,7 @@
 title: 'Knaves and Such'
 date: 2025-08-05T11:00:45-04:00
 featured_image: '/images/AdobeStock_1492181532.jpeg'
-draft: true
+draft: false
 ---
 I read "How Google Works" by Eric Schmidt and Jonathan Rosenberg a few years back, and one concept has stuck with me like gum on a conference room chair: "Knaves." These are smart people who are utterly self-serving, putting their own interests above everything else—including basic human decency, the company mission, and probably their own mothers if it meant getting a corner office. I've met far too many in my career, and honestly, they could form their own networking group called "Narcissists Anonymous" (though they'd never admit they had a problem).
 
