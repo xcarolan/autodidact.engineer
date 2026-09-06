@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My_journeys on Autodidact Engineer</title>
+    <link>https://autodidact.engineer/my_journey/</link>
+    <description>Recent content in My_journeys on Autodidact Engineer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jan 2025 13:15:23 -0500</lastBuildDate>
+    <atom:link href="https://autodidact.engineer/my_journey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myjourney</title>
+      <link>https://autodidact.engineer/my_journey/myjourney/</link>
+      <pubDate>Thu, 23 Jan 2025 13:15:23 -0500</pubDate>
+      <guid>https://autodidact.engineer/my_journey/myjourney/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

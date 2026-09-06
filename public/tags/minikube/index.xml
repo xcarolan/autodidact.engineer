@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minikube on Autodidact Engineer</title>
-    <link>http://localhost:1313/tags/minikube/</link>
+    <link>https://autodidact.engineer/tags/minikube/</link>
     <description>Recent content in Minikube on Autodidact Engineer</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/minikube/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://autodidact.engineer/tags/minikube/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To the kube and back again</title>
-      <link>http://localhost:1313/post/minikube-intro/</link>
+      <link>https://autodidact.engineer/posts/minikube-intro/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/minikube-intro/</guid>
+      <guid>https://autodidact.engineer/posts/minikube-intro/</guid>
       <description>&lt;p&gt;My Minikube journey began with a spark of curiosity ignited by the book &lt;a href=&#34;https://www.kobo.com/us/en/ebook/kubernetes-up-and-running-2&#34;&gt;kubernetes Up &amp;amp; Running&lt;/a&gt;. Minikube was popping up everywhere—articles, tech talks, the whole shebang—but I was still a newbie.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d just built my own little lab with a trusty old Dell Poweredge R710, and I was itching to dive headfirst into the Kubernetes world and see what all the buzz was about! Fast forward to today, and I&amp;rsquo;m proud to say I&amp;rsquo;m contributing to both the Kubernetes and Minikube projects. I&amp;rsquo;ve teamed up with some seriously brilliant people and learned a mountain of knowledge.&lt;/p&gt;</description>
     </item>
   </channel>

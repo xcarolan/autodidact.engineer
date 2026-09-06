@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/knaves/</loc>
+    <loc>https://autodidact.engineer/post/knaves/</loc>
     <lastmod>2025-08-05T11:00:45-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/linkedin/</loc>
+    <loc>https://autodidact.engineer/post/linkedin/</loc>
     <lastmod>2025-08-05T11:00:45-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://autodidact.engineer/post/</loc>
     <lastmod>2025-08-05T11:00:45-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/kubernetes/</loc>
+    <loc>https://autodidact.engineer/</loc>
+    <lastmod>2025-08-05T11:00:45-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://autodidact.engineer/my_journey/</loc>
+    <lastmod>2025-01-23T13:15:23-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://autodidact.engineer/my_journey/myjourney/</loc>
+    <lastmod>2025-01-23T13:15:23-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://autodidact.engineer/tags/kubernetes/</loc>
     <lastmod>2024-09-17T20:05:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/kubernetes-history/</loc>
+    <loc>https://autodidact.engineer/posts/kubernetes-history/</loc>
     <lastmod>2024-09-17T20:05:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://autodidact.engineer/tags/</loc>
     <lastmod>2024-09-17T20:05:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/a-url-journey/</loc>
-    <lastmod>2024-09-02T13:17:27-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/networking/</loc>
-    <lastmod>2024-09-02T13:17:27-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/web/</loc>
-    <lastmod>2024-09-02T13:17:27-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/minikube/</loc>
+    <loc>https://autodidact.engineer/tags/minikube/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/minikube-intro/</loc>
+    <loc>https://autodidact.engineer/posts/minikube-intro/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://autodidact.engineer/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://autodidact.engineer/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://autodidact.engineer/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://autodidact.engineer/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
